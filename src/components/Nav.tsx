@@ -29,7 +29,7 @@ export function Nav() {
           className="font-mono text-sm md:text-base text-foreground cursor-pointer font-bold border-2 border-foreground bg-primary px-3 py-2 shadow-[2px_2px_0px_0px_hsl(var(--foreground))]"
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
         >
-          AP_DEV
+          anamika pandey portfolio
         </div>
         
         <nav className="hidden md:flex items-center gap-6 font-mono text-xs">
