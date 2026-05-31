@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, ExternalLink, Github, Linkedin, ChevronDown, GraduationCap, Star, User, Briefcase, Zap, Gamepad2, Heart, MessageSquare, Lightbulb, Users, Trophy } from "lucide-react";
 import { SiHtml5, SiJavascript, SiReact, SiGit, SiVercel } from "react-icons/si";
-import profilePhoto from "@assets/WhatsApp_Image_2026-05-31_at_7.33.39_PM_1780236265777.jpeg";
+import profilePhoto from "@assets/profile-photo.jpeg";
 import { Nav } from "@/components/Nav";
 import { PixelCard } from "@/components/PixelCard";
 import { SkillBadge } from "@/components/SkillBadge";
